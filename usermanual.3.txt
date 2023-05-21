@@ -1,0 +1,43 @@
+______________________________________________________________________________________
+______________________________________________________________________________________
+  ********USER MANUAL OF 3x3 GRID GAME*******                                                                    
+                                                                                            
+
+      -----INTRODUCTION------
+
+    Tic-tac-toe is a two player or multiplayer game, who take turns
+    marking the spaces in a 3x3 , 4x4, 5x5, 7x7 or 9x9 squared grid. 
+    The player who succeeds in placing their respective marks in horizontal,
+    vertical, diagonal rows or as given in the instructions, wins the game.
+
+
+    -----HOW TO PLAY  3x3 GRID GAME-----
+
+     1. You will de displayed a 3x3 grid with numbers in each box.(1-9)
+   
+           _1_|_2_|_3_                             
+           _4_|_5_|_6_                           
+           _7_|_8_|_9_                             
+               
+     2. Decide who will be player 1 and who will be player 2.   
+     3. Symbol of player 1 is X, and symbol of player 2 is O.
+     4. First, player 1 should enter a number(1-9), then the symbol 'X' will take 
+        position in that corresponding box.
+     5. Then player 2 should enter a number(1-9), excluding the square player 1 entered 'X' 
+        on, then the symbol 'O' will take position in that corresponding box.
+     6. Continue until a player covers three boxes (horizontally, vertically, or diagonally),
+        or all of the boxes are filled.
+     7. If one player places same symbol in a horizontal, vertical, 
+        or diagonal boxes in a row, that player wins the game.
+
+            _X_|_X_|_X_           _X_|_O_|_O_        _X_|_2_|_3_
+            _O_|_5_|_6_           _X_|_5_|_6_        _4_|_X_|_6_
+            _7_|_O_|_9_           _X_|_O_|_9_        _7_|_8_|_X_
+
+          (Horizontally)           (Vertically)           (Diagonally)
+ 
+     8. If the boxes are all filled and there is no winner, the game ends in a draw.
+
+__________________________________________________________________________________________
+__________________________________________________________________________________________
+         

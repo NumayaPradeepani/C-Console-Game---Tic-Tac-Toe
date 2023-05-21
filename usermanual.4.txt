@@ -1,0 +1,50 @@
+
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+     ******USER MANUAL OF 4x4 GRID GAME*******                                                                    
+                                                                                            
+
+      -----INTRODUCTION------
+
+    Tic-tac-toe is a two player or multiplayer game, who take turns
+    marking the spaces in a 3x3 , 4x4, 5x5, 7x7 or 9x9 squared grid. 
+    The player who succeeds in placing their respective marks in a horizontal,
+    vertical, diagonal rows or as given in the instructions, wins the game.
+
+      
+    -----HOW TO PLAY  4x4 GRID GAME-----
+
+     1. You will de displayed a 4x4 grid with letters in each box.(A-P)
+      
+           _A_|_B_|_C_|_D_
+           _E_|_F_|_G_|_H_
+           _I_|_J_|_K_|_L_
+           _M_|_N_|_O_|_P_
+ 
+     2. Decide who will be player 1 and who will be player 2.   
+     3. Symbol of player 1 is '1', and symbol of player 2 is '0'.
+     4. First, player 1 should enter a letter(A-p), then the symbol '1' will take 
+        position in that corresponding box.
+     5. Then player 2 should enter a letter(A-p), then the symbol '0' will take 
+        position in that corresponding box.
+
+     6. There are three methods you can win this game as bellow,
+       
+         _1_|_1_|_1_|_1_      _1_|_B_|_C_|_1_       _A_|_B_|_1_|_1_
+         _E_|_F_|_G_|_H_      _E_|_F_|_G_|_H_       _E_|_F_|_1_|_1_
+         _I_|_J_|_K_|_L_      _I_|_J_|_K_|_L_       _I_|_J_|_K_|_L_
+         _M_|_N_|_O_|_P_      _1_|_N_|_O_|_1_       _M_|_N_|_O_|_P_
+
+          - 4 in a row         - 4 in the corners     - 4 in a square
+     (horizontally, vertically, 
+        or diagonally)
+
+
+     7. Continue until a player covers four boxes as above or all of the boxes are filled.
+     8. If one player places  four of the boxes with same symbol as above, that player 
+         wins the game.
+     9. If the boxes are all filled and there is no winner, the game ends in a draw.
+
+____________________________________________________________________________________________
+____________________________________________________________________________________________
+         

@@ -1,0 +1,52 @@
+___________________________________________________________________________________
+___________________________________________________________________________________
+     ******USER MANUAL OF 5x5 GRID GAME*******                                                                    
+                                                                                            
+
+      -----INTRODUCTION------
+
+    Tic-tac-toe is a two player or multiplayer game, who take turns
+    marking the spaces in a 3x3 , 4x4, 5x5, 7x7 or 9x9 squared grid. 
+    The player who succeeds in placing their respective marks in a horizontal,
+    vertical, diagonal rows or as given in the instructions, wins the game.
+
+      
+    -----HOW TO PLAY  5x5 GRID GAME-----
+
+     1. You will de displayed a 5x5 grid with letters in each box.(A-Y)
+      
+           _A_|_B_|_C_|_D_|_E_
+           _F_|_G_|_H_|_I_|_J_
+           _K_|_L_|_M_|_N_|_O_
+           _P_|_Q_|_R_|_S_|_T_
+           _U_|_V_|_W_|_X_|_Y_
+
+ 
+     2. Decide who will be player 1 and who will be player 2.   
+     3. Symbol of player 1 is '1', and symbol of player 2 is '0'.
+     4. First, player 1 should enter a letter(A-Y), then the symbol '1' will take 
+        position in that coresponding box.
+     5. Then player 2 should enter a letter(A-Y), then the symbol '0' will take 
+        position in that coresponding box.
+
+     6. There are two methods you can win this game as bellow,
+       
+          _1_|_1_|_1_|_1_|_1_       _1_|_1_|_1_|_D_|_E_
+          _F_|_G_|_H_|_I_|_J_       _1_|_1_|_1_|_I_|_J_
+          _K_|_L_|_M_|_N_|_O_       _1_|_1_|_1_|_N_|_O_
+          _P_|_Q_|_R_|_S_|_T_       _P_|_Q_|_R_|_S_|_T_
+          _U_|_V_|_W_|_X_|_Y_       _U_|_V_|_W_|_X_|_Y_
+                                        
+         - 5 in a row                  -9 in a 3*3 square
+     (horizontally, vertically,      (at four corners or at center)
+        or diagonally)
+
+
+     7. Continue until a player covers boxes as above or all of the boxes are filled.
+     8. If one player places boxes with same symbol as above, that player 
+         wins the game.
+     9. If the boxes are all filled and there is no winner, the game ends in a draw.
+
+______________________________________________________________________________________
+______________________________________________________________________________________
+         
